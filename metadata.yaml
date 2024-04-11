@@ -1,0 +1,34 @@
+_repo: Lappalaisia-lauluja_73262
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Donner, Otto
+    alias: Donner, O. (Otto)
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '44699'
+    url: http://www.gutenberg.org/2009/agents/44699
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Otto_Donner
+    - https://fi.wikipedia.org/wiki/Otto_Donner_(kielitieteilij%C3%A4)
+description: ''
+gutenberg_issued: '2024-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73262'
+  lccn: '24012956'
+language: fi
+pgterms:marc905: 20240317110509donner
+pgterms:marc906: '1876'
+pgterms:marc907: FI
+production_note: Jari Koivisto and Tapio Riikonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Sami'
+- !lcc 'PH'
+- GITenberg
+title: Lappalaisia lauluja
+url: http://www.gutenberg.org/ebooks/73262
