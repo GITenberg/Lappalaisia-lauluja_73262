@@ -1,5 +1,8 @@
 _repo: Lappalaisia-lauluja_73262
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Donner, Otto
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Otto_Donner
     - https://fi.wikipedia.org/wiki/Otto_Donner_(kielitieteilij%C3%A4)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73262#Lappalaisia-lauluja
 gutenberg_issued: '2024-03-25'
 gutenberg_type: Text
 identifiers:
